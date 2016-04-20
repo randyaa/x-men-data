@@ -1,6 +1,51 @@
 {
 	"teams": [
 		{
+			"name": "Original X-Men (1963–1970) | Original X-Men 1960s recruits"
+		},
+		{
+			"name": "Later recruits (1975-1999) | 1970s recruits"
+		},
+		{
+			"name": "Later recruits (1975-1999) | 1980s recruits"
+		},
+		{
+			"name": "Later recruits (1975-1999) | 1990s recruits"
+		},
+		{
+			"name": "2000s recruits | 2000s recruits"
+		},
+		{
+			"name": "2000s recruits | 2010s recruits"
+		},
+		{
+			"name": "Imposters"
+		},
+		{
+			"name": "Allies and honorary members"
+		},
+		{
+			"name": "X-Men substitute teams | New Mutants Graduate X-Men (1986)"
+		},
+		{
+			"name": "X-Men substitute teams | Muir Island X-men (1989)"
+		},
+		{
+			"name": "X-Men substitute teams | Phalanx Invasion X-Men (1994)"
+		},
+		{
+			"name": "X-Men substitute teams | Mannite Rescue X-Men (1999)"
+		},
+		{
+			"name": "X-Men substitute teams | Genoshan Assault X-Men (2001)"
+		},
+		{
+			"name": "X-Men substitute teams | Street Team X-Men (2004)"
+		},
+		{
+			"name": "X-Men substitute teams | X-Men-in-Training (2006-present)"
+		},
+		{
 			"name": "X-Men substitute teams | X-Force (X-Men Strike Team) (2007-2014)",
 			"description": "X-Men squad assembled and led by Cyclops (with Wolverine serving as the field leader) to take on missions which require responses too violent or controversial for the regular X-Men to deal with directly. When Cyclops disbanded X-Force, Wolverine put a new X-Force squad together without his knowledge."
 		},
@@ -121,7 +166,10 @@
 		{
 			"name": "Unofficial/Unsanctioned X-Men | [[Dark X-Men|Norman Osborn's X-Men]] (2009-2010)",
 			"description": "A team of X-Men assembled by Norman Osborn during the 'Utopia' storyline as part of the overarching 'Dark Reign' event."
-		}
+		},
+		{
+			"name": "Original X-Men (1963–1970) | Original X-Men (1963-1970)"
+		},
 	],
 	"xmen": [
 		{
@@ -130,14 +178,14 @@
 			"joined": "''The X-Men'', vol. 1 #42 (1968, backup story) (in flashback)",
 			"description": "Xavier founded the [[X-Men]] and was the original headmaster of [[X-Mansion|the Xavier Institute for Higher Learning]].<ref>''New X-Men,'' vol. 2 #46 (2008)</ref>",
 			"powers": "World's most powerful [[telepath]], capable of [[astral projection]], [[mind control]], illusion casting, memory manipulation, psychic blasts, and sensing the presence of nearby [[mutants]].",
-			"team": "Original X-Men (1963-1970)"
+			"team": "Original X-Men (1963–1970) | Original X-Men (1963-1970)"
 		},
 		{
 			"name": "Cyclops (comics)|Cyclops",
 			"realName": "Scott Summers",
 			"description": "Xavier's first recruit and often the group's field leader. Former headmaster of the [[X-Mansion|Xavier Institute]], the former leader of the original [[X-Factor (comics)|X-Factor]],<ref>''X-Factor,'' vol. 1 #1 (1986)</ref> and the current leader of an offshoot X-Men team. He also formerly led the X-Men's [[X-Force (comics)|X-Force]] squad.<ref>''X-Force,'' vol. 3 #1 (2008)</ref> He is the ex-husband of Madelyne Pryor, the widower of Jean Grey and ex-boyfriend of Emma Frost.<ref>''[[X-Men: Legacy|New X-Men]],'' vol. 1 #156 (2004)</ref>  Declared deceased, but the circumstances surrounding his death are still unknown.<ref>{{Cite book|title = Extraordinary X-Men #1|last = Lemire|first = Jeff|publisher = Marvel Comics|year = 2015|isbn = |location = |pages = }}</ref>",
 			"powers": "Projects a beam of ruby-colored concussive force from his eyes, which act as interdimensional [[aperture]]s between this universe and another.",
-			"team": "Original X-Men (1963-1970)"
+			"team": "Original X-Men (1963–1970) | Original X-Men (1963-1970)"
 		},
 		{
 			"name": "Iceman (comics)|Iceman]]",
@@ -145,7 +193,7 @@
 			"joined": "''The X-Men,'' vol. 1 #46 (1968, backup story) (flashback)",
 			"description": "Second and youngest member of the original team. Former member of the [[Champions (comics)|Champions]], the [[Defenders (comics)|Defenders]], and [[X-Factor (comics)|X-Factor]]. Currently a senior staff member at the [[Jean Grey School for Higher Learning]].",
 			"powers": "Generates freezing temperatures to create and manipulate ice. Can transform his body into ice.",
-			"team": "Original X-Men (1963-1970)"
+			"team": "Original X-Men (1963–1970) | Original X-Men (1963-1970)"
 		},
 		{
 			"name": "Warren Worthington III|Angel/Archangel]]",
@@ -153,7 +201,7 @@
 			"joined": "''The X-Men,'' vol. 1 #56 (1969, backup story) (flashback)",
 			"description": "Third original team member and the only one to have acted as a costumed hero before joining the X-Men. Former member of the [[Champions (comics)|Champions]], the [[Defenders (comics)|Defenders]], [[X-Factor (comics)|X-Factor]], and [[X-Force]].",
 			"powers": "Makes use of the large, feathered wings on his back for natural flight. Also has eagle-like vision and blood with regenerative properties. Can formerly transform into a blue-skinned form with metallic, techno-organic wings, sharp metallic claws, and enhanced physical abilities.  Currently can shoot light beams from his hands.",
-			"team": "Original X-Men (1963-1970)"
+			"team": "Original X-Men (1963–1970) | Original X-Men (1963-1970)"
 		},
 		{
 			"name": "Beast (comics)|Beast",
@@ -161,7 +209,7 @@
 			"joined": "''The X-Men,'' vol. 1 #53 (1969, backup story) (flashback)",
 			"description": "Original team's other scientist. Former member of the [[Avengers (comics)|Avengers]], the [[Defenders (comics)|Defenders]], and [[X-Factor (comics)|X-Factor]] and currently is an agent of [[S.W.O.R.D. (comics)|S.W.O.R.D.]] and the [[Illuminati (comics)|Illuminati]]. Former vice principal at the [[Jean Grey School for Higher Learning]].  Currently the only mutant among a squad of [[Inhumans]].",
 			"powers": "Has superhuman strength, speed, stamina, agility, reflexes, and durability. His former feline-like form gave him night vision, minor pheromone control, enhanced senses and claws.",
-			"team": "Original X-Men (1963-1970)"
+			"team": "Original X-Men (1963–1970) | Original X-Men (1963-1970)"
 		},
 		{
 			"name": "Jean Grey|Marvel Girl/Phoenix",
@@ -169,40 +217,43 @@
 			"joined": "''The X-Men,'' vol. 1 #1 (1963)",
 			"description": "Fifth and final of the team's founding members, although she had met Xavier before the others. Left the team in X-Men vol.1 #94. Rejoins at the end of the Muir Island Saga, X-Factor vol. 1 #70.  Ex-wife of Scott Summers. She was killed by Kuan-Yin Xorn in ''New X-Men,'' vol. 1 #150 (2004) and was later resurrected by the [[Phoenix (comics)|Phoenix Force]] in ''X-Men: Phoenix - Endsong'' (2005) as '''White Phoenix of the Crown'''.",
 			"powers": "Possesses [[telekinesis]] and telepathy. As the template of the Phoenix Force, she is able to generate unlimited amounts of energy, travel through time-space, and manipulate matter on a subatomic level.",
-			"team": "Original X-Men (1963-1970)"
+			"team": "Original X-Men (1963–1970) | Original X-Men (1963-1970)"
 		},
 		{
-			"name": "[Mimic (comics)|Mimic",
+			"name": "Mimic (comics)|Mimic",
 			"realName": "Calvin Montgomery Rankin",
 			"joined": "The X-Men,'' vol. 1 #27 (1966)",
 			"description": "Blackmailed his way to the X-Men's house. He stole their powers, used them against the team, and kidnapped Jean. When he tried to enhance his powers with his dead father's machine, he lost them. Professor X then erased his memory. Former member of [[Dark X-Men|Norman Osborn's X-Men]]. Rejoined to help his friend [[Michael Pointer (comics)|Weapon Omega]].",
 			"powers": "Copies other mutants' powers and abilities, sometimes permanently. Retains the original five X-Men's powers indefinitely.",
-			"team": "Original X-Men 1960s recruits"
+			"team": "Original X-Men (1963–1970) | Original X-Men 1960s recruits"
 		},
 		{
-			"name": "[Kevin Sydney|Changeling",
+			"name": "Kevin Sydney|Changeling",
 			"realName": "Kevin Sydney",
 			"joined": "The X-Men,'' vol. 1 #40 (1968)<br/> (as Professor X)",
 			"description": "Member of the villainous [[Factor Three]] before he secretly joined the X-Men, known only to Professor X and Jean Grey. He impersonated Professor X at Xavier's request in ''The X-Men,'' vol. 1 #40 (1968) (behind the scenes). Given the name [[Kevin Sydney|Morph]] in several alternate dimensions.",
 			"died": "Died impersonating Xavier in ''The X-Men,'' vol. 1 #42 (1968), making him the first X-Man to die.",
 			"powers": "[[Shapeshifting|Shapeshifter]] able to assume other humanoid forms; a latent telepath."
+			"team": "Original X-Men (1963–1970) | Original X-Men 1960s recruits"
 		},
 		{
-			"name": "[Polaris (comics)|Magnetrix/Polaris",
+			"name": "Polaris (comics)|Magnetrix/Polaris",
 			"realName": "Lorna Dane",
 			"joined": "The X-Men,'' vol. 1 #60 (1969) as Lorna Dane",
 			"description": "Polaris is Magneto's daughter. Officially recruited into the team by Professor X in 'The X-Men' Vol. 1 #65.  Active as Magnetrix in ''X-Men: The Hidden Years'' #3 (2000) and as Polaris in ''X-Men,'' vol. 1 #97 (1976). She lost her powers on [[Decimation (comics)|M-Day]], but they were restored technologically by [[Apocalypse (comics)|Apocalypse]]. Occasional girlfriend of Havok. Former member of the [[Acolytes (comics)|Acolytes]], the [[Muir Island]] X-Men, [[Starjammers]], and [[X-Factor Investigations]]. Currently leads a new corporate [[All-New X-Factor|X-Factor]].",
 			"powers": "Generates magnetic fields to manipulate metal, induce flight, create force fields, and harness energy blasts."
+			"team": "Original X-Men (1963–1970) | Original X-Men 1960s recruits"
 		},
 		{
-			"name": "[Havok (comics)|Havok",
+			"name": "Havok (comics)|Havok",
 			"realName": "Alexander Summers",
 			"joined": "The X-Men,'' vol. 1 #65 (1970)",
 			"description": "Alex is Cyclops' and Vulcan's brother.  Officially recruited into the team by Professor X in 'The X-Men' Vol. 1 #65. Occasional boyfriend of Polaris and is the former leader of [[X-Factor (comics)|X-Factor]] and [[Starjammers]]. He was the former leader of [[Uncanny Avengers]].",
 			"powers": "Generates [[plasma (physics)|plasma]] blasts and absorbs cosmic energy."
+			"team": "Original X-Men (1963–1970) | Original X-Men 1960s recruits"
 		},
 		{
-			"name": "[Petra (comics)|Petra",
+			"name": "Petra (comics)|Petra",
 			"joined": "''X-Men: Deadly Genesis'' #4 (2006) ([[Retroactive continuity|retcon]])",
 			"description": "[Retroactive continuity|Retconned]] member. Student of [[Moira MacTaggert]] who joined the X-Men for Xavier's first, secret attempt to save the original X-Men from [[Krakoa]].",
 			"died": "Killed in action in ''X-Men: Deadly Genesis'' #6 (2006) (flashback), though not before saving the lives of teammates Vulcan and Darwin.",
@@ -210,7 +261,7 @@
 			"team": "Later recruits (1975-1999) | 1970s recruits"
 		},
 		{
-			"name": "[Sway (comics)|Sway",
+			"name": "Sway (comics)|Sway",
 			"realName": "Suzanne Chan",
 			"description": "[[Retroactive continuity|Retconned]] member. MacTaggert student who participated in the first attempt to save the original X-Men.",
 			"died": "Killed in action in ''[[X-Men: Deadly Genesis]]'' #6 (2006) (flashback).",
@@ -218,7 +269,7 @@
 			"team": "Later recruits (1975-1999) | 1970s recruits"
 		},
 		{
-			"name": "[Darwin (comics)|Darwin",
+			"name": "Darwin (comics)|Darwin",
 			"realName": "Armando Mu-oz",
 			"description": "[[Retroactive continuity|Retconned]] member. MacTaggert student who participated in the first attempt to save the original X-Men. [[Missing in action]] until brought out of [[suspended animation]] by the mutant energy released on [[Decimation (comics)|M-Day]]. The only member of this X-Men incarnation to later rejoin the team.",
 			"powers": "Constant reactive evolution.",
@@ -238,6 +289,7 @@
 			"joined": "''Giant-Size X-Men'' #1 (1975)",
 			"description": "Son of Mystique. Former leader of [[Excalibur (comics)|Excalibur]] and a former [[Catholic Church|Catholic]] priest.",
 			"powers": "[[Muller's morphs#Neomorph|Neomorphic]] physiology grants him a [[prehensile tail]], blue fur, invisibility in shadows, night vision, and wall-crawling. Possesses line-of-sight [[teleportation]]."
+			"team": "Later recruits (1975-1999) | 1970s recruits"
 		},
 		{
 			"name": "Wolverine (character)|Wolverine",
@@ -815,7 +867,7 @@
 			"joined": "X-Men,'' vol. 1 #110 (1978)",
 			"description": "A cosmic entity who impersonated [[Jean Grey]].  First introduced in X-Men vol.1 #101 (1976), although she fights alongside the X-Men on and off for about a year of publications, she doesn't actually join the team until later.",
 			"powers": "[[Reality warping]], omnipathy, omniscience, can power up selected beings.",
-			"team": "Imposter"
+			"team": "Imposters"
 		},
 		{
 			"name": "Dark Beast",
@@ -824,7 +876,7 @@
 			"description": "Version of Beast from the [[Age of Apocalypse]] reality who briefly infiltrated the X-Men, replacing the original Beast. Former member of [[Dark X-Men|Norman Osborn's X-Men]].",
 			"died": "Excessive self-experimentation left him dependent on a life support suit, which Cyclops inadvertently damaged, causing his death in ''Uncanny X-Men'' vol. 3, #22.",
 			"powers": "Superhuman strength, speed, stamina, agility, reflexes, and senses; ambidexterity with hands and feet; ape-like form with blue fur; experimentation on self provided some other powers.",
-			"team": "Imposter"
+			"team": "Imposters"
 		},
 		{
 			"name": "Unidentified Skrull",
@@ -833,7 +885,7 @@
 			"description": "Alien [[Skrull]] who was placed on the X-Men by Skrull allies of Apocalypse. He genuinely believed himself to be [[Wolverine (character)|Wolverine]] and was unaware that he was an infiltrator.",
 			"died": "Killed in ''Astonishing X-Men,'' vol. 2 #3 (1999).",
 			"powers": "Shapeshifting, claws.",
-			"team": "Imposter"
+			"team": "Imposters"
 		},
 		{
 			"name": "Fred Duncan (comics)|Fred Duncan",
@@ -1036,14 +1088,16 @@
 			"name": "ForgetMeNot",
 			"joined": "Sometime prior to ''X-Men: Legacy'' #300 (2014)",
 			"description": "Supposed member who has been helping the team for years, but was never remembered by his teammates because of his powers. He was shot and presumably killed by Fantomex in ''X-Force'', vol 4 #10; issue #13 revealed that the real MeMe managed to save his life.",
-			"powers": "Abilities cause him to be completely forgotten by anyone who has seen him as soon as they look away."
+			"powers": "Abilities cause him to be completely forgotten by anyone who has seen him as soon as they look away.",
+			"team": "Allies and honorary members"
 		},
 		{
 			"name": "Spider-Man",
 			"realName": "Peter Benjamin Parker",
 			"joined": "Spider-Man and the X-Men'' vol. 1 #1 (2015)",
 			"description": "Former member of the [[Fantastic Four|New Fantastic Four]], [[Heroes for Hire]] and [[Future Foundation]] and a founding member of the [[The New Avengers (comics)|New Avengers]]. Current membership in the [[Avengers (comics)|Avengers]]. Joined the Jean Grey School for Higher Learning as the new guidance counselor.",
-			"powers": "Superhuman strength, speed, agility, stamina, reflexes, and endurance."
+			"powers": "Superhuman strength, speed, agility, stamina, reflexes, and endurance.",
+			"team": "Allies and honorary members"
 		},
 		{
 			"name": "Cannonball (comics)|Cannonball",
@@ -3839,21 +3893,21 @@
 			"team": "X-Men splinter teams | Other student squads (2003-2006) | '''[[Hellions (comics)#The Xavier Institute's Hellions squad|Hellions]]''' (Emma Frost's squad)"
 		},
 		{
-			"name": "[[Stepford Cuckoos",
+			"name": "Stepford Cuckoos",
 			"realName": "Celeste Cuckoo",
 			"joined": "''New X-Men,'' vol. 1 #118 (2001)",
 			"description": "Co-Leaders. Still powered. See [[#Street Team X-Men (2004)|Street Team X-Men]].",
 			"team": "X-Men splinter teams | Other student squads (2003-2006) | '''[[Xavier Institute student body#Corsairs|Corsairs]]''' (Cyclops's squad)"
 		},
 		{
-			"name": "[[Stepford Cuckoos",
+			"name": "Stepford Cuckoos",
 			"realName": "Irma 'Mindee' Cuckoo",
 			"joined": "''New X-Men,'' vol. 1 #118 (2001)",
 			"description": "Co-Leaders. Still powered. See [[#Street Team X-Men (2004)|Street Team X-Men]].",
 			"team": "X-Men splinter teams | Other student squads (2003-2006) | '''[[Xavier Institute student body#Corsairs|Corsairs]]''' (Cyclops's squad)"
 		},
 		{
-			"name": "[[Stepford Cuckoos",
+			"name": "Stepford Cuckoos",
 			"realName": "Phoebe Cuckoo",
 			"joined": "''New X-Men,'' vol. 1 #118 (2001)",
 			"description": "Co-Leaders. Still powered. See [[#Street Team X-Men (2004)|Street Team X-Men]].",
